@@ -82,8 +82,8 @@ Any updates will be posted on this page with a revised “Effective Date.”
 
 ## 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-📧 **yourname@gmail.com**  
-*(replace with your actual email before publishing)*
+📧 **mailappu@gmail.com**  
+
 
 ---
 
